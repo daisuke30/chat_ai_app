@@ -1,0 +1,11 @@
+//
+//  FlutterTTS.xcconfig
+//  Runner
+//
+//  Created by 勝田大介 on 2023/04/01.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+OTHER_LDFLAGS = $(inherited) -framework FlutterTts
